@@ -13,9 +13,10 @@
 #particles-js{
   width: 100vw;
   height: 100vh;
-  background-color: #262b34;
+  background-color: #ffc60;
   background-image: url('');
-  background-size: cover;
+  background-size: contain;
   background-position: 50% 50%;
   background-repeat: no-repeat;
+  margin: auto 0;	
 }
